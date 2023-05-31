@@ -1,40 +1,31 @@
-# Write your resume and pass the PlayWright tests
+# Course Introduction Assignment
 
-Welcome to your assignment, your task is to code your resume using plain HTML without any CSS or JavaScript.  You must pass the end-to-end(e2e) playwright tests locateed in thee tests folder [here](./reference/index.html).  
-0. Install vscode live code extension, Node and Playwright (see below)
-1. Click [here](https://classroom.github.com/a/p-9R0XIT) to accept assignment.  This will make a copy of the assignment that is private and associated with the NJIT-WIS GitHub repository and not your own GitHHub account.
-2. Clone the repository to your local computer using vscode.
-3. Type npm run install
-4. You can run the tests using the command: npm run test
+Welcome to your assignment! Your task is to create your resume using plain HTML without any CSS or JavaScript (SERIOUSLY DO NOT USE CSS OR JAVACRIPT AT ALL I JUST WANT A PLAIN HTML DOCUMENT TO GET STARTED WITH). You are required to pass the end-to-end (e2e) playwright tests located in the [tests folder](tests/resume.spec.js). Below are detailed instructions to guide you through this assignment.
 
+** You will need: Node, GIT, VSCode, VSCode live server exension, and Playwright installed.  
 
-can find example code [here](./reference/index.html)
+## Required Videos and Playlists 
+None are very long ~20-30 minutes and even if you know some of this these have really helpful information that you might kick yourself for not knowing later.
 
+### Instructor Video(s)
+* Course Overview - [here](https://youtu.be/7FFUdUla__w)
+* Assignment Overview - [here]()
 
-## Node.js Installation:
+### Required YouTube non-instructor videos - Hand Selected for Quality and Length
+* VSCode - [here](https://youtu.be/B-s71n0dHUk)
+* VSCode /w Git & GitHub - [here](https://www.youtube.com/watch?v=i_23KUAEtUM)
+* Overview of PlayWright - [here](https://www.youtube.com/watch?v=sAY9FmBih08)
+* Node.JS Introduction - [here](https://www.youtube.com/watch?v=JZXQ455OT3A)
+* GIT &  GitHub Playlist - [here](https://www.youtube.com/watch?v=6KoBsJfYBPM&list=PL0Zuz27SZ-6PkWWk_mA2vkimUTJf81mNz)
+#### Optional YouTube - At least watch these if you know all the stuff above.
+* VS Code Top Extensions - [here](https://youtu.be/xQcpQfEumQw)
+* Browser Dev Tools Tips and Tricks - [here](https://www.youtube.com/watch?v=TcTSqhpm80Y)
 
-1. Visit the official Node.js website: nodejs.org.
-2. Download the Node.js installer for your operating system (Windows, macOS, or Linux).
-3. Run the downloaded installer and follow the installation instructions.
-3. Verify the installation by opening a terminal or command prompt and running the following command:
-css
-
-node --version
-
-It should display the installed Node.js version.
-
-## Playwright Installation:
-
-1. Open a terminal or command prompt.
-Run the following command to install Playwright and its dependencies:
-
-npm install --save-dev @playwright/test
-
-This command installs the @playwright/test package, which includes Playwright and the necessary testing tools.
-
-2 To install Playwright with Chromium, run the following command:
-
-npx playwright install
-
-This command downloads and installs the Chromium browser used by Playwright for testing.
-Setup Complete:
+## Instructor Created Readings and Installation Instructions - Required Reading
+* [VSCode and VSCode Live Server Extension](vscode.md)
+* [HTML, Browser, WebServer, and Semantic Webtags Explained for Assignment](webtagsexplained.md)
+* [PLaywright](playwright.md)
+* [ChatGPT Suggested Prompts to Learn More](chatgpt.md)
+* [GIT](git.md)
+* [NodeJS](nodejs.md)
+* [Browser Developer Tools](browsertools.md)
