@@ -24,7 +24,7 @@ None are very long ~20-30 minutes and even if you know some of this these have r
 ## Instructor Created Readings and Installation Instructions - Required Reading
 * [VSCode and VSCode Live Server Extension](vscode.md)
 * [HTML, Browser, WebServer, and Semantic Webtags Explained for Assignment](webtagsexplained.md)
-* [PLaywright](playwright.md)
+* [Playwright](playwright.md)
 * [ChatGPT Suggested Prompts to Learn More](chatgpt.md)
 * [GIT](git.md)
 * [NodeJS](nodejs.md)

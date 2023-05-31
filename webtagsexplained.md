@@ -28,7 +28,7 @@ In HTML5, a number of new semantic elements were added to the standard, includin
 
 The development of HTML, web browsers, and web servers has paved the way for the modern World Wide Web. Understanding the history and functionality of these technologies is fundamental to web development. In addition, using semantic HTML tags can greatly improve the clarity and accessibility of your web pages, making the web a more inclusive place for everyone.
 
-## HTML Tags Used
+## HTML Tags to Use
 
 - `<!DOCTYPE html>`: This declaration helps the web browser to understand the version of HTML used in the document. In this case, we're using HTML5.
 
