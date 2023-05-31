@@ -1,5 +1,6 @@
 # Git: A Brief History and Overview
-
+## Install
+* [here - use the binary installer on MacOS](https://git-scm.com/downloads)
 ## History of Git
 Git is a version control system that was initially released on April 7, 2005. It was developed by Linus Torvalds in response to the revocation of the free license for BitKeeper, the proprietary source-control management (SCM) system used for Linux kernel development since 2002. Torvalds had specific design criteria for Git, including a requirement that patching should take no more than three seconds.
 
