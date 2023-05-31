@@ -47,6 +47,8 @@ None are very long ~20-30 minutes and even if you know some of this these have r
 * VSCode /w Git & GitHub - [here](https://www.youtube.com/watch?v=i_23KUAEtUM)
 * Overview of PlayWright - [here](https://www.youtube.com/watch?v=sAY9FmBih08)
 * Node.JS Introduction - [here](https://www.youtube.com/watch?v=JZXQ455OT3A)
+* SETTING UP SSH KEYS SO YOU CAN CONNECT VSCode to GitHub - [here - Windows ONLY](https://www.youtube.com/watch?v=a-zX_qc2S-M)
+* SETTIG UP SSH KEYS SO YOU CAN CONNECT VSCode to GitHub - [here - MacOS Only](https://www.youtube.com/watch?v=cGcpVQlhbuI)
 * GIT &  GitHub Playlist - [here](https://www.youtube.com/watch?v=6KoBsJfYBPM&list=PL0Zuz27SZ-6PkWWk_mA2vkimUTJf81mNz)
 #### Optional YouTube - At least watch these if you know all the stuff above.
 * VS Code Top Extensions - [here](https://youtu.be/xQcpQfEumQw)
