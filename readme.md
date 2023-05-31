@@ -48,7 +48,7 @@ the Live Server extension for VSCode, and Node.js. Detailed installation instruc
 None are very long ~20-30 minutes and even if you know some of this these have very helpful information that you might be upset with yourself for not knowing later.
 
 ### Instructor Video(s)
-* Assignment Overview - [here](https://youtu.be/9Ot7-MmQFL0)
+* Assignment Overview - [here](https://youtu.be/9Ot7-MmQFL0) 
 
 ### Required YouTube non-instructor videos - Hand Selected for Quality and Length
 * VSCode - [here](https://youtu.be/B-s71n0dHUk)
