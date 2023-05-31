@@ -33,14 +33,22 @@ By the end of this assignment, you should be able to:
 
 Remember, the journey is just as important as the destination. Let's start the engine and begin this exciting ride in the world of web development!
 
+## Install The Software
 **You will need: Node, GIT, VSCode, VSCode live server exension, and Playwright installed.**  
+the Live Server extension for VSCode, and Node.js. Detailed installation instructions are provided below.
+
+* [VS CODE](vscode.md)
+* [VS Code live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Google Chrome](https://www.google.com/chrome/)
+* [Playwright](playwright.md)
+* [GIT](git.md)
+
 
 ## Required Videos and Playlists 
-None are very long ~20-30 minutes and even if you know some of this these have really helpful information that you might kick yourself for not knowing later.
+None are very long ~20-30 minutes and even if you know some of this these have very helpful information that you might be upset with yourself for not knowing later.
 
 ### Instructor Video(s)
-* Course Overview - [here](https://youtu.be/7FFUdUla__w)
-* Assignment Overview - [here]()
+* Assignment Overview - [here](https://youtu.be/9Ot7-MmQFL0)
 
 ### Required YouTube non-instructor videos - Hand Selected for Quality and Length
 * VSCode - [here](https://youtu.be/B-s71n0dHUk)
@@ -61,4 +69,4 @@ None are very long ~20-30 minutes and even if you know some of this these have r
 * [ChatGPT Suggested Prompts to Learn More](chatgpt.md)
 * [GIT](git.md)
 * [NodeJS](nodejs.md)
-* [Browser Developer Tools](browsertools.md)
+* [Browser Developer Tools](browsertools.md) 
