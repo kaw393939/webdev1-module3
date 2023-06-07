@@ -22,8 +22,8 @@ Remember, this assignment introduces you to vast fields like CSS, color theory, 
 
 In this assignment, you're tasked with exploring and expressing your unique **archetype**. Your archetype is a universally relatable symbol or character, such as the 'Hero', 'Artist', 'Caregiver', 'Explorer', 'Rebel', and many more. This personal symbol will form the backbone of your design strategy, reflecting in your choice of background image, fonts, and color scheme for your resume.
 
-- **Instructor Video on Archetypes** - [here]()
-- **Brand Archetype Guide** - [here](brands.md)
+- **Instructor Video on Archetypes** - [here](https://youtu.be/BmDwsEFHfUA)
+- **Instructor Created Brand Archetype Guide** - [here](brands.md)
 
 ---
 
@@ -33,7 +33,7 @@ CSS is the paintbrush to your canvas of HTML, giving you the means to adjust lay
 
 Your mission in this assignment is to upgrade your plain HTML resume with CSS, making it not only accessible but visually appealing. Your goal is to create a site that represents you professionally and engages anyone who visits it.
 
-- **Instructor Video on CSS** - [here]()
+- **Instructor Video on Assignment** - [here](https://youtu.be/-h_uj1u5mb4)
 - **Files and Folders - Help I can't find my file and how not to have problems - [here](files.md)**
 - **HTML CSS Guide** - [here](css.md)
 - **Color and Images Guide** - [here](color_images.md)
