@@ -71,10 +71,6 @@ These resources will arm you with the knowledge and techniques you need to excel
 2. The professional styling of your resume and its representation of the chosen brand archetype. Inadequate attempts will receive a zero score.  You have the opportunity for feedback through the discssion board, if you can get a draft of the assignment done at least 3 days before the due date.
 3. Must pass all Playwright tests
 
-### Challenge - Practice Image Optimization
-
-To prepare for our next unit, take note of the image size in our example [here](src/images/river.png). It's currently 2MB, which is quite large. Your challenge is to optimize this image, reducing the file size while preserving its quality. This practice will be useful in future assignments. Use the resources provided below for guidance.  **Apply the same optimizations to the image that you use and don't reuse my image or you get a 0.**
-
 ### Peer Feedback and Discussion
 
 Use the discussion board on Canvas to share your work and receive constructive feedback from your peers and the instructor. The exchange of honest yet respectful feedback is crucial to our collective learning journey. Review this [Toastmasters guide](https://www.careerfair.io/reviews/toastmasters-effective-feedback) on giving effective feedback.
