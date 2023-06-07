@@ -1,72 +1,84 @@
-# Assignment Overview
+# Assignment 2: Combining Style and Technology - Enhancing Your Resume with CSS and Visual Design Concepts
 
-Welcome aboard the school bus of web development! Just like driving a school bus, developing quality web applications requires understanding and operating several controls. In this assignment, we'll focus on four essential tools: Git, Visual Studio Code (VSCode), Playwright, and Node.js.
+## Overview
 
-Consider **Git** as your brake system. It allows you to stop and inspect the changes in your code at any point, and even revert to a previous state if necessary.
+Welcome to the exciting realm where aesthetics meet technology! This next step in your web development journey invites you to breathe life and personality into your work through the power of styling. Up until now, you've been building the bones of your webpages with HTML. Now, you're about to add the skin and colors, making your pages not just functional, but also visually compelling. 
 
-**VSCode** is like your steering wheel. It guides you through your codebase, offering features and extensions that aid in navigating and managing your code effectively.
+Remember, this assignment introduces you to vast fields like CSS, color theory, typography, and others, all at a fundamental level. This ensures that you have a well-rounded understanding of the core concepts in web design and the ability to start using CSS effectively.
 
-**Playwright** is your gas pedal. It propels your development forward by automating browser tasks and ensuring your web application runs as expected through end-to-end tests.
+### Learning Objectives
 
-**Node.js** is your clutch, connecting your local development environment to the server-side world, enabling you to host and serve your applications efficiently.
+1. Apply CSS to transform the visual aspect of web applications.
+2. Implement fundamental design principles, including color theory, typography, and visual hierarchy.
+3. Use CSS selectors and properties to achieve the desired layout and aesthetics.
+4. Explore the concept of archetypes to develop a personal branding strategy in design.
+5. Gain proficiency in using Markdown to manage and present content.
 
-Just like learning to drive, you may be familiar with some controls, like HTML (the chassis of our bus), but in this assignment, we aim to make sure you're comfortable with all of these tools, operating them together to drive your web development forward smoothly. 
+#### [Prerequiste - Module 1 Creating the HTML Resume - Review Previous Instructions if Necessary](https://github.com/kaw393939/webdev1)
 
-Our final destination? Creating your resume in plain HTML. This destination is chosen purposefully because we will be focusing on specific topics and will need the resume to be in plain HTML for future assignments in the course. Moreover, crafting your resume in plain HTML ensures it works well with assistive technologies like screen readers, boosting the accessibility of your web content.
+---
 
-To see the green checkmark of success on GitHub Actions, which signifies your code has passed all the automated Playwright tests, will be a part of this journey. This experience will give you a first-hand view of how continuous integration works in a real-world development scenario.
+### Archetype Exploration - Start Here
 
-We're using GitHub Classroom for this assignment. It will automatically score your website based on the Playwright tests. Please note, this score is not automatically added to the Learning Management System (LMS). The grading for this assignment is all-or-nothing. If all tests pass, you'll receive full credit for the assignment.
+In this assignment, you're tasked with exploring and expressing your unique **archetype**. Your archetype is a universally relatable symbol or character, such as the 'Hero', 'Artist', 'Caregiver', 'Explorer', 'Rebel', and many more. This personal symbol will form the backbone of your design strategy, reflecting in your choice of background image, fonts, and color scheme for your resume.
 
-Your task is to create your resume using plain HTML without any CSS or JavaScript. **SERIOUSLY, DO NOT USE CSS OR JAVASCRIPT AT ALL.** We just want a plain HTML document to get started with. You are required to pass the end-to-end (e2e) Playwright tests located in the [tests folder](tests/resume.spec.js). Below are detailed instructions to guide you through this assignment.
+- **Instructor Video on Archetypes** - [here]()
+- **Brand Archetype Guide** - [here](brands.md)
 
-## Learning Objectives
+---
 
-By the end of this assignment, you should be able to:
+### Unleashing the Power of CSS 
 
-1. Use Git for version controlling your code.
-2. Use Visual Studio Code to navigate and manage your codebase effectively.
-3. Run end-to-end tests using the Playwright library.
-4. Use Node.js to host and serve a static JSON file.
-5. Demonstrate understanding of semantic HTML.
-6. Create a resume using plain HTML which adheres to the guidelines provided.
+CSS is the paintbrush to your canvas of HTML, giving you the means to adjust layouts, add colors, modify fonts, and much more. It's how you transform your functional webpage into an interactive and visually pleasing digital experience.
 
-Remember, the journey is just as important as the destination. Let's start the engine and begin this exciting ride in the world of web development!
+Your mission in this assignment is to upgrade your plain HTML resume with CSS, making it not only accessible but visually appealing. Your goal is to create a site that represents you professionally and engages anyone who visits it.
 
-## Install The Software
-**You will need: Node, GIT, VSCode, VSCode live server exension, and Playwright installed.**  
-the Live Server extension for VSCode, and Node.js. Detailed installation instructions are provided below.
+- **Instructor Video on CSS** - [here]()
+- **Files and Folders - Help I can't find my file and how not to have problems - [here](files.md)**
+- **HTML CSS Guide** - [here](css.md)
+- **Color and Images Guide** - [here](color_images.md)
+- **Image Guide and Where to Get Free Legal Images** - [here](images.md)
+- **Font Guide** - [here](fonts.md)
 
-* [VS CODE](vscode.md)
-* [VS Code live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-* [Google Chrome](https://www.google.com/chrome/)
-* [Playwright](playwright.md)
-* [GIT](git.md)
+---
 
+## Additional **Required** Readings and Videos
 
-## Required Videos and Playlists 
-None are very long ~20-30 minutes and even if you know some of this these have very helpful information that you might be upset with yourself for not knowing later.
+These resources will arm you with the knowledge and techniques you need to excel in this assignment:
 
-### Instructor Video(s)
-* Assignment Overview - [here](https://youtu.be/9Ot7-MmQFL0) 
+- **Markdown Guide** - [here](markdownguide.md)
+- **Chat GPT Prompts** - [here](chatgpt.md)
 
-### Required YouTube non-instructor videos - Hand Selected for Quality and Length
-* VSCode - [here](https://youtu.be/B-s71n0dHUk)
-* VSCode /w Git & GitHub - [here](https://www.youtube.com/watch?v=i_23KUAEtUM)
-* Overview of PlayWright - [here](https://www.youtube.com/watch?v=sAY9FmBih08)
-* Node.JS Introduction - [here](https://www.youtube.com/watch?v=JZXQ455OT3A)
-* SETTING UP SSH KEYS SO YOU CAN CONNECT VSCode to GitHub - [here - Windows ONLY](https://www.youtube.com/watch?v=a-zX_qc2S-M)
-* SETTIG UP SSH KEYS SO YOU CAN CONNECT VSCode to GitHub - [here - MacOS Only](https://www.youtube.com/watch?v=cGcpVQlhbuI)
-* GIT &  GitHub Playlist - [here](https://www.youtube.com/watch?v=6KoBsJfYBPM&list=PL0Zuz27SZ-6PkWWk_mA2vkimUTJf81mNz)
-#### Optional YouTube - At least watch these if you know all the stuff above.
-* VS Code Top Extensions - [here](https://youtu.be/xQcpQfEumQw)
-* Browser Dev Tools Tips and Tricks - [here](https://www.youtube.com/watch?v=TcTSqhpm80Y)
+## Assignment Deliverables and Grading
 
-## Instructor Created Readings and Installation Instructions - Required Reading
-* [VSCode and VSCode Live Server Extension](vscode.md)
-* [HTML, Browser, WebServer, and Semantic Webtags Explained for Assignment](webtagsexplained.md)
-* [Playwright](playwright.md)
-* [ChatGPT Suggested Prompts to Learn More](chatgpt.md)
-* [GIT](git.md)
-* [NodeJS](nodejs.md)
-* [Browser Developer Tools](browsertools.md) 
+1. A CSS-enhanced version of your resume that reflects your chosen archetype in its design.
+2. A screenshot of your styled resume, embedded in the Readme.md file of your assignment's GitHub repository.
+3. In the Readme file, include your name, and a short explanation of your design choices in relation to your archetype, and a screenshot of your resume.  You should also inlcude this, if you post your resume to the discussion board.  **[See my Example](example.md)**  Remove all of the code in the existing Readme.md file, so that it's easy for the grader to see.  **You will get a 0 if you keep the original content in the readme.md.**
+
+### Important Considerations for Grading 
+
+- Please review the code comments in the web page for guidance. Access it [here](src/index.html).
+- For this assignment, concentrate on enhancing color, typography, and images. Refrain from introducing layout modifications, as we will delve into this in the subsequent module.
+- Aim for elegant simplicity in your design. Exploring CSS beyond the scope of this assignment is not required or encouraged.
+- Make sure you thoroughly review all the content that I am providing, it really will help you become a better technologist, communicator, and designer.  
+- Make sure you use a "Creative Commons" or an Ai Generated image (Ai Images don't have a copywright). Cite the source of your image and read the licensing requirements of the image to make sure you can legally use it.
+
+### Grading Rubric - All or Nothing
+
+**Your assignment will be assessed based on:**
+
+1. The presence of a screenshot of the resume in the Readme.md file. Assignments without this will be marked as zero with no option for resubmission.
+2. The professional styling of your resume and its representation of the chosen brand archetype. Inadequate attempts will receive a zero score.  You have the opportunity for feedback through the discssion board, if you can get a draft of the assignment done at least 3 days before the due date.
+3. Must pass all Playwright tests
+
+### Challenge - Practice Image Optimization
+
+To prepare for our next unit, take note of the image size in our example [here](src/images/river.png). It's currently 2MB, which is quite large. Your challenge is to optimize this image, reducing the file size while preserving its quality. This practice will be useful in future assignments. Use the resources provided below for guidance.  **Apply the same optimizations to the image that you use and don't reuse my image or you get a 0.**
+
+### Peer Feedback and Discussion
+
+Use the discussion board on Canvas to share your work and receive constructive feedback from your peers and the instructor. The exchange of honest yet respectful feedback is crucial to our collective learning journey. Review this [Toastmasters guide](https://www.careerfair.io/reviews/toastmasters-effective-feedback) on giving effective feedback.
+
+## Conclusion
+
+Remember, the concepts we cover are vast, and we're addressing them at a foundational level. This comprehensive approach will give you a solid understanding, preparing you to delve deeper into each topic and master it over time. Let's embark on this fascinating journey of web design!
