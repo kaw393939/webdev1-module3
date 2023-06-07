@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="This is an example resume.">
+    <meta name="keywords" content="resume, jobs, career">
+    <title>John Doe Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        /* Setting general body properties and applying the golden ratio for line-height */
+        body {
+            font-family: 'Work Sans', sans-serif;
+            margin: 0;
+            background-image: url('images/river.png');
+            background-size: cover;
+            color: #333;
+            font-size: 16px; /* Base font size */
+            line-height: 1.618; /* Line height following the golden ratio */
+        }
+
+        /* Applying the golden ratio for heading sizes */
+        h1 {
+            font-size: 2.618em; /* Font size following the golden ratio */
+        }
+        h2 {
+            font-size: 1.618em; /* Font size following the golden ratio */
+        }
+        h3 {
+            font-size: 1em; /* Font size following the golden ratio */
+        }
+
+        /* Setting properties of the container and applying the golden ratio for width and padding */
+        .container {
+            width: 61.8%; /* Width following the golden ratio */
+            max-width: 1600px; /* Max-width for larger screens */
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 1.618% 2.618%; /* Padding following the golden ratio */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+
+        /* Setting properties for header, main and footer sections */
+        header, main, footer {
+            padding: 1.618% 2.618%; /* Padding following the golden ratio */
+        }
+
+        p, li {
+            color: #7B6F63;
+        }
+
+        /* Setting properties for links and applying the golden ratio for padding */
+        a {
+            color: #7B6F63;
+            text-decoration: none;
+            padding: 0.618em 1em; /* Padding following the golden ratio */
+        }
+
+        /* Setting hover color for links */
+        a:hover {
+            color: #0077cc;
+        }
+
+        /* Styling for unordered lists */
+        ul {
+            list-style-type: none; 
+        }
+
+        /* Styling for list items */
+        li:before {
+            content: "\2713\0020"; 
+            color: #5C5651;
+        }
+
+        /* Setting properties for sections in the main content */
+        main section:not(:last-of-type) {
+            border-bottom: 1px solid #ccc; 
+        }
+
+        /* Styling for social links and applying the golden ratio for width */
+        .social-links {
+            display: flex;
+            justify-content: space-between;
+            width: 38.2%; /* Width following the golden ratio */
+            margin: 0 auto;
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background-image: none;
+                color: black;
+            }
+            .container {
+                box-shadow: none;
+            }
+            a {
+                color: black;
+                text-decoration: underline;
+            }
+            a[href^="mailto:"]:after {
+                content: " (" attr(href) ")";
+            }
+            a[href^="tel:"]:after {
+                content: " (" attr(href) ")";
+            }
+            .print-link {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>John Doe</h1>
+            <h2>Embarking on Every Code Adventure</h2>
+        </header>
+        
+        <main>
+            <section>
+                <h2>Objective</h2>
+                <p>My objective is to use my passion and expertise in web development to create innovative and explorative solutions in a forward-thinking company. I thrive in environments that challenge me to learn and grow, where I can utilize my problem-solving skills to navigate through the fascinating terrain of technology and software development.</p>
+            </section>
+            
+            <section>
+                <h2>Education</h2>
+                <article>
+                    <h3>B.S. in Computer Science</h3>
+                    <p>University of Example, 2010-2014</p>
+                </article>
+                <article>
+                    <h3>High School Diploma</h3>
+                    <p>Example High School, 2006-2010</p>
+                </article>
+            </section>
+            
+            <section>
+                <h2>Experience</h2>
+                <article>
+                    <h3>Senior Software Engineer</h3>
+                    <p>Example Company, 2018-Present</p>
+                </article>
+                <article>
+                    <h3>Software Engineer</h3>
+                    <p>Another Example Company, 2014-2018</p>
+                </article>
+                <article>
+                    <h3>Junior Software Engineer</h3>
+                    <p>Yet Another Example Company, 2010-2014</p>
+                </article>
+            </section>
+            
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li>Python</li>
+                    <li>JavaScript</li>
+                    <li>C++</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>SQL</li>
+                    <li>Git</li>
+                </ul>
+            </section>
+        </main>
+        
+        <footer>
+            <p>John Doe © 2023</p>
+            <p><a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
+            <p><a href="tel:+1234567890">123-456-7890</a></p>
+            <p>123 Main St, Anytown, USA</p>
+            <a href="#" class="print-link" onclick="window.print();return false;">Print this resume</a>
+
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/johndoe"><i class="fab fa-linkedin"></i></a>
+                <a href="https://twitter.com/johndoe"><i class="fab fa-twitter"></i></a>
+                <a href="https://github.com/johndoe"><i class="fab fa-github"></i></a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
