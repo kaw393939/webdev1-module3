@@ -4,7 +4,7 @@ Brand archetypes act as a compass, steering a brand's narrative and visual perso
 
 **[Must Read This Article Guide For More In Depth Explanation of Each Archetype](https://www.iteratorshq.com/blog/the-ultimate-guide-to-brand-archetypes/)**
 
-**[Great YouTube  Video On Brand Archetypes](https://youtu.be/ubG1XNO1pE0)
+**[Great YouTube  Video On Brand Archetypes](https://youtu.be/ubG1XNO1pE0)**
 
 ## The Science Behind Brand Archetypes
 
