@@ -7,12 +7,11 @@ The :root selector refers to the root element. In HTML, the root element is alwa
 
 :root {
     /* Colors */
-    --color-primary: #15435A;
-    /* Main color for texts */
-    --color-secondary: #61A5C2;
-    /* Secondary color used in sidebar */
-    --color-accent: #DAA520;
-    /* Accent color for links hover and section separators */
+    --color-primary: #023047;  /* Dark Blue for main text */
+    --color-secondary: #255f85;  /* Dark Sky Blue for sidebar */
+    --color-accent: #8ac926;  /* Lime Green for links hover and section separators */
+    --hover-color: #88b7d8;
+
 
 
     /* Spacing */
@@ -48,7 +47,7 @@ The :root selector refers to the root element. In HTML, the root element is alwa
     /* Size of the font icons */
     --transition-speed: 0.3s;
     /* Transition speed for link hover effects */
-    --hover-color: #DAA520;
+
     /* Link hover color */
 }
 
@@ -74,7 +73,7 @@ p {
 }
 
 body {
-    background: url('../images/river.webp');
+    background: url('../images/oceean.jpg');
     /* Background image */
     background-size: cover;
     /* Scale the background image to be as large as possible */
