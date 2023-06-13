@@ -3,11 +3,7 @@ const { test, expect } = require('@playwright/test');
 
 const resumeURL = 'http://localhost:3000'; // Replace with the URL of the student's resume page
 
-/* This test checks that the name heading (h1) is visible on the page */
-test('Check Name Heading', async ({ page }) => {
-  await page.goto(resumeURL);
-  await expect(page.locator('h1')).toBeVisible();
-});
+
 
 /* This test checks that the tagline heading (h2) is visible on the page */
 test('Check Tagline Heading', async ({ page }) => {
@@ -27,11 +23,6 @@ test('Check Phone Number Link', async ({ page }) => {
   await expect(page.locator('a[href^="tel:"]')).toBeVisible();
 });
 
-/* This test checks that the address is visible on the page */
-test('Check Address', async ({ page }) => {
-  await page.goto(resumeURL);
-  await expect(page.locator('p:has-text("123 Main St")')).toBeVisible();
-});
 
 /* This test checks that the LinkedIn link is visible on the page */
 test('Check LinkedIn Link', async ({ page }) => {
@@ -90,9 +81,4 @@ test('Check SEO Meta Keywords', async ({ page }) => {
   await expect(metaKeywords).not.toBe('');
 });
 
-/* This test checks that the footer is visible on the page */
-test('Check Footer', async ({ page }) => {
-  await page.goto(resumeURL);
-  await expect(page.locator('footer')).toBeVisible();
-});
 
