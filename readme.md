@@ -4,7 +4,7 @@
 
 In this assignment, you'll acquire and apply critical skills in GIT collaboration, advanced CSS, and web accessibility. These skills will be integral throughout the remainder of the course and your broader technology career. To complete the assignment, follow the detailed [CSS instructions](css.md) and make the ten identified pull requests as outlined in the main [git assignment](assignment.md).
 
-## Watch the Instructor Instructional Video - [Here]()
+## Watch the Instructor Instructional Video - [Here](https://youtu.be/TSxlwFRm148)
 
 ## Learning Objectives
 
