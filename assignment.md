@@ -29,7 +29,7 @@ You'll start with a given HTML/CSS resume. Your task is to personalize this resu
 ## Assignment Steps
 
 1. **Initial Setup:** Start by accepting the assignment on GitHub Classroom to create your repository. Clone this repository to your local machine, and initiate your changes in a new branch.
-2. **Making Changes:** Modify the resume to your liking within your branch. This could include color schemes modifications, personal information updates, and more.
+2. **Making Changes:** Modify the resume to meet the requirements of one of the pull requests listed below.
 3. **Testing Changes:** After making changes, execute the provided Playwright tests to ensure your modifications do not break the resume's functionality.
 4. **Committing Changes:** Once you've confirmed the changes via testing, commit them with clear and descriptive commit messages.
 5. **Creating Pull Requests:** After committing your changes, push your branch to the remote repository and create a new pull request via the GitHub page of your repository.
@@ -38,7 +38,7 @@ You'll start with a given HTML/CSS resume. Your task is to personalize this resu
 
 This assignment aims to give you a real-world experience of using
 
-## Specific Pull Requests for the Assigment 
+## Specific Pull Requests for the Assigment  - YOU MUST DO EACH ONE Separatly the purpose is to practice the process, so you can do this in your group without problems.   
 1. **PR 1: Update HTML Metadata and Title**
    - **New branch:** `update-html-metadata`
    - **VS Code Steps:** 

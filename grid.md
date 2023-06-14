@@ -2,6 +2,12 @@
 
 In our assignment, the CSS Grid plays a crucial role in organizing and presenting the 'Skills' section, which is meant to showcase the variety of skills in a structured and responsive manner.
 
+## Required YouTube Videos
+- [CSS Grid in 100 Seconds](https://www.youtube.com/watch?v=uuOXPWCh-6o)
+- [Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+
+- [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA)
+
 ## Grid Container
 
 Within our HTML, we would have a structure similar to this:

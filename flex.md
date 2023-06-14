@@ -2,6 +2,11 @@
 
 In our assignment, we leverage the power of CSS Flex layout in organizing and structuring the 'Sidebar' and 'Container' sections of our web page.
 
+## Required YouTube Videos
+- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+- [Learn Flexbox CSS in 8 minutes](https://www.youtube.com/watch?v=phWxA89Dy94)
+
+
 ## Flex Container
 
 Our HTML structure for the sidebar and container would look something like this:

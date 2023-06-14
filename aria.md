@@ -2,6 +2,10 @@
 
 Web accessibility is a significant aspect of web design, ensuring that websites are inclusive and usable for all, including individuals with various abilities and disabilities. Embracing web accessibility broadens the user base and enhances the overall user experience.
 
+## Required YouTube Videos
+- [Understanding ADA Compliance and How it Affects Your Website (2023)](https://www.youtube.com/watch?v=t3P5PBhmb0Q)
+- [Getting started with web accessibility with Ashlee Boyer](https://www.youtube.com/watch?v=qr0ujkLLgmE)
+
 ## Understanding Web Accessibility
 
 Web accessibility refers to the removal of barriers that prevent interaction with or access to websites by people with disabilities. It involves creating websites that can cater to everyone, including individuals with visual, auditory, cognitive, or physical disabilities. 

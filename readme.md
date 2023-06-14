@@ -8,7 +8,7 @@ In this assignment, you'll acquire and apply critical skills in GIT collaboratio
 
 Upon completion of this assignment, you will be able to:
 
-1. **Collaborate Effectively using GIT** - Demonstrate an understanding of GIT workflows and apply this knowledge to facilitate collaborative coding projects.
+1. **Learn The Basics of GIT to Effectively Collaborate** - Demonstrate an understanding of GIT workflows and apply this knowledge to facilitate collaborative coding projects.
 2. **Apply Advanced CSS Techniques** - Demonstrate an understanding of layouts, responsive design, media queries, accessability, and using CSS computed properties.
 
 ## Assignment Instructions and Content

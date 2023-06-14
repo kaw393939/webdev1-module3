@@ -2,6 +2,10 @@
 
 In this section, we're diving into more advanced CSS techniques: CSS Variables (`var`), Calculations (`calc`), pseudo selectors and more. These features enhance the maintainability and flexibility of our styles. We'll also shed light on how our code could be improved for better compatibility with older browsers.
 
+## Required YouTube Videos
+- [CSS Variables in 100 Seconds](https://www.youtube.com/watch?v=NtRmIp4eMjs)
+- [Learn CSS Variables in 15 Minutes](https://www.youtube.com/watch?v=9qcw1JxDurs)
+
 ## CSS Variables (`var`)
 
 CSS Variables, also known as "CSS Custom Properties", empower us to specify particular values at one place and then reuse them throughout the style sheet. This makes our CSS more maintainable and flexible.
@@ -19,29 +23,6 @@ body {
     background: var(--color-primary);
 }
 ```
-
-## Calculations (`calc`)
-
-The `calc()` function in CSS enables us to perform calculations to compute CSS property values. This is an impressive tool that allows us to maintain relationships between properties.
-
-In our assignment, we use `calc()` to dynamically figure out the gap size in our grid layout:
-
-```css
-.skill-list {
-    gap: calc(.5 * var(--base-spacing));
-}
-```
-
-## Pseudo Selectors
-
-Pseudo selectors are keywords added to selectors that allow us to style a specific state of the selected element(s). In our assignment, we've used the `:last-child` pseudo selector to remove the border from the last section in our main content:
-
-```css
-.main-content section:last-child {
-    border-bottom: none;
-}
-```
-
 ## Backward Compatibility 
 
 To ensure our CSS code is compatible with older browsers that may not support CSS variables and `calc()`, we can provide fallback styles. These styles will be used if the browser doesn't understand the variables or `calc()`. Here is an example:

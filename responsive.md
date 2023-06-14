@@ -2,6 +2,10 @@
 
 In the evolving landscape of web development, one principle remains crucial: a website must provide an optimal viewing experience across a wide array of devices. This principle is the foundation of responsive web design.
 
+## Required YouTube Videos
+- [Master Media Queries And Responsive CSS Web Design Like a Chameleon!](https://www.youtube.com/watch?v=K24lUqcT0Ms)
+- [The secret to mastering CSS layouts](https://www.youtube.com/watch?v=vHuSz4fRM88)
+
 ## Responsive Web Design
 
 Responsive web design is the approach that suggests design and development should respond to the user's behavior and environment based on screen size, platform, and orientation. Essentially, it wraps together flexible layouts, images, CSS media queries, and sometimes also flexbox and grid layouts. 
