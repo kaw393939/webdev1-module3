@@ -8,7 +8,7 @@ Enhancing your collaborative workflows in web design and improving your resume's
 
 Upon completing this assignment, you should be able to:
 
-- **Implement CSS Custom Properties (Variables) and Calc Function** - Apply [CSS variables](vars.md) to maintain clean and manageable codebases while adhering to the DRY (Don't Repeat Yourself) principle. Utilize the [CSS `calc()` function](math.md) to perform calculations within CSS properties, fostering dynamic and precise designs.
+- **Implement CSS Custom Properties (Variables) and Calc Function** - Apply [CSS variables](vars.md) to maintain clean and manageable codebases while adhering to the DRY (Don't Repeat Yourself) principle. Utilize the [CSS math functions](math.md) to perform calculations within CSS properties, fostering dynamic and precise designs.
 
 - **Employ Advanced CSS Layout Techniques with Flexbox and Grid Systems** - Use [CSS flexbox](flex.md) and [grid systems](grid.md) to create intricate, well-aligned layouts that enhance your webpages' visual appeal.
 
