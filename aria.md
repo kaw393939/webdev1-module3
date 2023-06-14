@@ -10,6 +10,11 @@ Web accessibility is a significant aspect of web design, ensuring that websites 
 
 - [Web Accessability Color - Super Important for Design! - You need to change your colors probably](https://www.youtube.com/watch?v=Qu_1ILsAIHY)
 
+## Useful links
+- [Accessability Color Checker](https://webaim.org/resources/contrastchecker/)
+- [Web Content Accessability Guidelines 2023 ](https://www.w3.org/TR/WCAG22/)
+
+
 ## Understanding Web Accessibility
 
 Web accessibility refers to the removal of barriers that prevent interaction with or access to websites by people with disabilities. It involves creating websites that can cater to everyone, including individuals with visual, auditory, cognitive, or physical disabilities. 
