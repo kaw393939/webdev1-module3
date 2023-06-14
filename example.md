@@ -12,7 +12,7 @@ Write a brief summary detailing your workflow and decision-making process as you
 
 ## Commit History 
 
-To successfully complete this assignment, you are required to maintain an active commit history. Each commit message should accurately represent the changes made to your project. Your commit history should mirror the steps outlined in the Git assignment, where we asked for at least 10 specific commits. 
+To successfully complete this assignment, you are required to maintain an active commit history. Each commit message should accurately represent the changes made to your project. Your commit history should mirror the steps outlined in [the Git assignment](assignment.md), where we asked for at least 10 specific commits. 
 
 Include a screenshot of your commit history for this assignment. Your commit history can be accessed from your GitHub repository by clicking on the "Commits" in the top bar. Make sure the screenshot is clear and legible.
 
