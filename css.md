@@ -2,6 +2,18 @@
 
 Enhancing your collaborative workflows in web design and improving your resume's aesthetics calls for a mastery of key CSS concepts. These skills are also integral for the successful completion of your [GIT assignment](git.md).
 
+## Overall Objective of Your Updated Design
+
+In addition to the changes required in the [GIT Assigment](assignment.md) you should try to do the following:
+
+1.  Find out how to make the resume print exactly how you want using media Queries, so you can generate a PDF of your resume that you will need in your future assigments.
+
+2.  Put in fallback values for the variables and calculations that may not be supported in older browsers like Internet Explorer.
+
+3. Enahance the resume with other sections such as your projects and clubs, organizations.
+
+4. Change the layout if you like something different like put the sidebar on the left instead of the right, you can make any changes you want but you can't break the tests.
+
 ## Learning Objectives, Core Concepts, and Detailed Topics
 
 **I put required YouTube videos and my own writing for each topic please read/watch them they are really good and not long**
